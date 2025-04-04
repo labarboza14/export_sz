@@ -1,5 +1,3 @@
-Projeto Python `export_sz` no GitHub:
-
 # export_sz
 
 Este projeto tem como objetivo a exportação e tratamento de dados para uso interno na [sua empresa ou contexto, se quiser especificar]. Ele foi desenvolvido em Python e utiliza bibliotecas como `pandas` para manipulação de dados de forma eficiente.

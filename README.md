@@ -1,6 +1,6 @@
 # export_sz
 
-Este projeto tem como objetivo a exportação e tratamento de dados para uso interno na [minha empresa] Ele foi desenvolvido em Python e utiliza bibliotecas como `pandas` para manipulação de dados de forma eficiente.
+Este projeto tem como objetivo a exportação e tratamento de dados para uso interno. Ele foi desenvolvido em Python e utiliza bibliotecas como `pandas` para manipulação de dados de forma eficiente.
 
 ## 🚀 Funcionalidades
 
@@ -29,11 +29,7 @@ export_sz/
 
 ## ✅ Como usar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/gloriaredesul/export_sz.git
-   ```
-2. Navegue até o diretório do projeto:
+1. Navegue até o diretório do projeto:
    ```bash
    cd export_sz
    ```
